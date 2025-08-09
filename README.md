@@ -34,13 +34,7 @@ Model: gemini-1.5-flash — Optimized for speed and cost-effectiveness
 
 📁 Repository Structure
 
-/project-root
-│
-├── /venv/               → Python virtual environment
-├── /static/             → CSS, JS files
-├── index.html           → Frontend HTML
-├── app.py               → Flask server
-└── README.md            → This file
+<pre> ``` /Automata-Assistant-Bot ├── app.py ├── index.html ├── requirements.txt ├── /static │ ├── style.css │ └── script.js └── /venv (ignored) ``` </pre>
 
 
 ⚙️ How to Run the Project
