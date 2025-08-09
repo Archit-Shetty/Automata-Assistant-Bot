@@ -4,23 +4,23 @@ AutomataBot is an AI assistant that leverages the Google Gemini API to provide i
 ### 🧠 Project Architecture & Working Process
 The system follows a clear three-layer architecture:
 
-Frontend — The user interacts via a browser-based chat interface. 
-Backend — A Flask server receives and processes requests. 
-AI Model — The backend sends queries to the Gemini LLM and returns its responses.
+1. Frontend — The user interacts via a browser-based chat interface. 
+2. Backend — A Flask server receives and processes requests. 
+3. AI Model — The backend sends queries to the Gemini LLM and returns its responses.
 
 ### 🔄 Query Flow:
 
-User Input — The user submits a message through the chat interface. 
-Frontend → Backend — JavaScript sends the input to the Flask server. 
-Backend → AI — The server authenticates using the API key and sends the query to Gemini. 
-AI Response — Gemini processes the query and returns a response.
-Backend → Frontend — The server sends the AI response back to the frontend.
-Frontend Displays — JavaScript renders the message in the chat UI.
+1. User Input — The user submits a message through the chat interface. 
+2. Frontend → Backend — JavaScript sends the input to the Flask server. 
+3. Backend → AI — The server authenticates using the API key and sends the query to Gemini. 
+4. AI Response — Gemini processes the query and returns a response.
+5. Backend → Frontend — The server sends the AI response back to the frontend.
+6. Frontend Displays — JavaScript renders the message in the chat UI.
 
 ### 💻 Technologies Used
 Frontend:
-HTML, CSS, JavaScript — For the UI and client-side behavior
-AJAX — To send and receive data from the backend asynchronously
+-> HTML, CSS, JavaScript — For the UI and client-side behavior
+-> AJAX — To send and receive data from the backend asynchronously
 
 Backend:
 Python — Core server language
