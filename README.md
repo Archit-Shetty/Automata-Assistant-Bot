@@ -1,4 +1,4 @@
-##🤖 AutomataBot: An LLM-Powered Chatbot for Automata Theory & Compiler Design
+## 🤖 AutomataBot: An LLM-Powered Chatbot for Automata Theory & Compiler Design
 AutomataBot is an AI assistant that leverages the Google Gemini API to provide intelligent support for topics in Automata Theory and Compiler Design. It features a lightweight Flask backend and an interactive JavaScript frontend to deliver a real-time chat experience.
 
 🧠 Project Architecture & Working Process
