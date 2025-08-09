@@ -69,8 +69,8 @@ Then open index.html in your browser to start chatting with AutomataBot!
 
 ### 🧪 Features:
 
-✅ LLM-based Q&A on formal languages and compiler topics
-✅ Streamlined client-server communication
-✅ Fast and responsive chat UI
-✅ Easy local setup and API integration
-✅ Clean and modular architecture
+1. LLM-based Q&A on formal languages and compiler topics
+2. Streamlined client-server communication
+3. Fast and responsive chat UI
+4. Easy local setup and API integration
+5. Clean and modular architecture
