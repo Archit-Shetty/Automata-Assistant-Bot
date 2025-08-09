@@ -32,10 +32,6 @@ AI:
 Google Gemini API — Provides LLM capabilities
 Model: gemini-1.5-flash — Optimized for speed and cost-effectiveness
 
-📁 Repository Structure
-
-<pre> ``` /Automata-Assistant-Bot ├── app.py ├── index.html ├── requirements.txt ├── /static │ ├── style.css │ └── script.js └── /venv (ignored) ``` </pre>
-
 
 ⚙️ How to Run the Project
 ✅ Prerequisites:
