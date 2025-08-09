@@ -11,7 +11,7 @@ AI Model — The backend sends queries to the Gemini LLM and returns its respons
 ### 🔄 Query Flow:
 
 User Input — The user submits a message through the chat interface.
-Frontend → Backend — JavaScript (fetch API) sends the input to the Flask server.
+Frontend → Backend — JavaScript sends the input to the Flask server.
 Backend → AI — The server authenticates using the API key and sends the query to Gemini.
 AI Response — Gemini processes the query and returns a response.
 Backend → Frontend — The server sends the AI response back to the frontend.
@@ -40,8 +40,8 @@ Model: gemini-1.5-flash — Optimized for speed and cost-effectiveness
 
 ### 📦 Step 1: Clone & Set Up the Backend
 
-> git clone https://github.com/YourUsername/automata-llm-bot.git
-> cd automata-llm-bot
+> git clone https://github.com/Archit-Shetty/Automata-Assistant-Bot.git
+> cd Automata-Assistant-Bot
 > python -m venv venv
 
 Activate the virtual environment:
