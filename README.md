@@ -19,18 +19,18 @@ The system follows a clear three-layer architecture:
 
 ### 💻 Technologies Used
 Frontend:
--> HTML, CSS, JavaScript — For the UI and client-side behavior
--> AJAX — To send and receive data from the backend asynchronously
+1. HTML, CSS, JavaScript — For the UI and client-side behavior
+2. AJAX — To send and receive data from the backend asynchronously
 
 Backend:
-Python — Core server language
-Flask — Handles routing and API requests
-flask-cors — Manages cross-origin requests for frontend-backend communication
-google-generativeai — Connects to the Google Gemini API
+1. Python — Core server language
+2. Flask — Handles routing and API requests
+3. flask-cors — Manages cross-origin requests for frontend-backend communication
+4. google-generativeai — Connects to the Google Gemini API
 
 AI:
-Google Gemini API — Provides LLM capabilities
-Model: gemini-1.5-flash — Optimized for speed and cost-effectiveness
+1. Google Gemini API — Provides LLM capabilities
+2. Model: gemini-1.5-flash — Optimized for speed and cost-effectiveness
 
 
 ## ⚙️ How to Run the Project
